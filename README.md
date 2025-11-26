@@ -1,4 +1,6 @@
 # Delivery-Logistics-Analysis
+<img width="1432" height="662" alt="image" src="https://github.com/user-attachments/assets/2615482c-95b2-401d-a2e4-267779cbd5ea" />
+
 
 ### Insights
 •	Average rating 3.6 is above average but needs to be improvement
